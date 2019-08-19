@@ -3,4 +3,7 @@ added the first branch with branch name firstbranch
 
 
 after merging the branches 
-we made changes in the first branch and check wether the master branch is not merged with the newly modified branch
+we made changes in the first branch and check wether 
+the master branch is not merged with the newly modified branch
+
+third try to modify 
